@@ -1,6 +1,6 @@
 // Write a java program to define a method to combine 2 array elements into single array //
 // I/P- First array-> [12,34,56] //
-// 		Second array-> [36,98,76] //
+// 	Second array-> [36,98,76] //
 // O/P- [12,34,56,36,98,76]
 
 package org.jsp.Array;
