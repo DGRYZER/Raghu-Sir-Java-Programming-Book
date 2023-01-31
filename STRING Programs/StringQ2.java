@@ -1,4 +1,4 @@
-//Write a java program to count how many capital letters and small lewtters present in the string//
+//Write a java program to count how many capital letters and small letters present in the string//
 //I/P- DeBaJyOtI //
 //O/P- Capital letters - 5//
 //	   Small letters - 4//
